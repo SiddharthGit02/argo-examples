@@ -1,6 +1,6 @@
 appName: nodegoku-argo
 
-port: 4000
+port: 3000
 
 configmap:
   name: nodegoku-argo-configmap-v1
